@@ -5,7 +5,7 @@ const buttons = document.querySelectorAll('input')
 
 function computerPlay() {
     let choices = ['rock', 'paper', 'scissors']
-    return choices = [Math.floor(Math.random() * choices.length)]
+    return choices [Math.floor(Math.random() * choices.length)]
 }
 
 function disableButtons() {
